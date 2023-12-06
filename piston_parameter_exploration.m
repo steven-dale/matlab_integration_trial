@@ -5,7 +5,7 @@ pressure_mpa = 0:5000;
 %% For each initial porosity, with constant 
 constant_k = 0.009;
 constant_a = 1.49;
-constant_b = 150;
+constant_b = 200;
 const_init_porosity = 0.3; % changes on a per material basis
 
 
